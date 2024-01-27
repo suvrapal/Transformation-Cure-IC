@@ -2,7 +2,7 @@
 
 Code description:
 
-Sim bc gen code SM.r: Simulation code containing EM-SM algorithm 
+Sim-bc-gen-code-SM.R: Simulation code containing EM-SM algorithm 
  contains functions 
 1. LR_int - generates interval
 2. data_gen_BC - generates data from Box-Cox model
@@ -12,7 +12,7 @@ Sim bc gen code SM.r: Simulation code containing EM-SM algorithm
    using direct max of observed log-likelihood function
 6. MC.Sim.BC.EM.IC Monte Carlo simulation for parameter estimation using EM Algorithm
 
-Sim bc gen code grid.r: Simulation code containing EM-PL algorithm
+Sim-bc-gen-code-grid.R: Simulation code containing EM-PL algorithm
 contains functions
 1. LR_int - generates interval
 2. data_0_BC - generates data from Box-Cox model when alpha=0
